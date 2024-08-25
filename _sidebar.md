@@ -1,5 +1,3 @@
-- [Read Me](README.md)
-- [How To](HowTo.md)
-- [Sample](Sample.md)
+- [Bestiary](0001_Bestiary.md)
 ---
 - [Changelog](Changelog.md)
