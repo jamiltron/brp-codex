@@ -27,4 +27,4 @@ Skeletons have no CON, and their hit points equals their SIZ. They are immune to
 
 Dried bones are brittle, and snap and splinter easily from a heavy blow. Regardless of the skeleton’s current hit points, any blow striking a skeleton has a percentage chance of destroying the skeleton equal to the damage done multiplied by ×4, in addition to the normal hit point loss. If the roll is successful, the skeleton instantly shatters to shards of bone.
 
-_e.g. If an axe blow strikes a skeleton for 5 points of damage, there is a 20% chance the skeleton is immediately shattered._
+_e.g. If a mace blow strikes a skeleton for 5 points of damage, there is a 20% chance the skeleton is immediately shattered._
