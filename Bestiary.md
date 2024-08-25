@@ -11,6 +11,7 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 | 4D6     | 3D6     | 2D6+2   | 3D6     | 2D6+3   | 4D6     | 2D6     |
 | 14      | 10–11   | 9       | 10–11   | 10      | 14      | 7       |
 
+|                           |                                         |
 |---------------------------|-----------------------------------------|
 | **Move:** 8               | **Hit Points** 10                       |
 | **Damage Modifier:** None | **Armor** 6-point ring and light helmet |
@@ -38,6 +39,7 @@ Animated skeletons are either created or summoned by magic or the result of an a
 | 3D6     | 2D6+6   | 3D6     | 1       | 3D6     |
 | 10–11   | 13      | 10–11   | 1       | 10–11   |
 
+|                           |                                                                |
 |---------------------------|----------------------------------------------------------------|
 | **Move:** 10              | **Hit Points** 13 (see below)                                  |
 | **Damage Modifier:** None | **Armor** None (may wear armor, also see below for immunities) |
