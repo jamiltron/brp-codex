@@ -10,7 +10,7 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 |---------|---------|---------|---------|---------|---------|---------|
 | 4D6     | 3D6     | 2D6+2   | 3D6     | 2D6+3   | 4D6     | 2D6     |
 | 14      | 10–11   | 9       | 10–11   | 10      | 14      | 7       |
-|                           |                                         |
+
 |---------------------------|-----------------------------------------|
 | **Move:** 8               | **Hit Points** 10                       |
 | **Damage Modifier:** None | **Armor** 6-point ring and light helmet |
@@ -25,7 +25,7 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 
 **Skills:** Climb 55%, Dodge 40%, Hide 35%, Knowledge (Orc-lore) 35%, Language (Human) 25%, Language (Orcish) 60%, Listen 50%, Ride (wolf) 50%, Sense 35%, Spot 45%, Stealth 40%, Track 30%
 
-**Powers:** Sorcery is the most fearsome power in orc society, with orc sorcerers often serving as priests or leaders. A sorcery-using orc has a POW of 16+ and may know the following spells: Cloak of Night (2), Pox (1), Rat’s Vision (1), Sorcerer’s Razor (1), Sorcerer’s Speed (2), Ward (3).
+**Powers:** Sorcery is the most fearsome power in orc society, with orc sorcerers often serving as priests or leaders. A sorcery-using orc has a POW of 16+ and may know the following spells: [Cloak of Night (2)][cloak-of-night], Pox (1), Rat’s Vision (1), Sorcerer’s Razor (1), Sorcerer’s Speed (2), Ward (3).
 
 ## Undead
 
@@ -37,7 +37,7 @@ Animated skeletons are either created or summoned by magic or the result of an a
 |---------|---------|---------|---------|---------|
 | 3D6     | 2D6+6   | 3D6     | 1       | 3D6     |
 | 10–11   | 13      | 10–11   | 1       | 10–11   |
-|                           |                                                                |
+
 |---------------------------|----------------------------------------------------------------|
 | **Move:** 10              | **Hit Points** 13 (see below)                                  |
 | **Damage Modifier:** None | **Armor** None (may wear armor, also see below for immunities) |
@@ -55,3 +55,5 @@ Skeletons have no CON, and their hit points equals their SIZ. They are immune to
 Dried bones are brittle, and snap and splinter easily from a heavy blow. Regardless of the skeleton’s current hit points, any blow striking a skeleton has a percentage chance of destroying the skeleton equal to the damage done multiplied by ×4, in addition to the normal hit point loss. If the roll is successful, the skeleton instantly shatters to shards of bone.
 
 _e.g. If a mace blow strikes a skeleton for 5 points of damage, there is a 20% chance the skeleton is immediately shattered._
+
+[cloak-of-night]: https://brp-codex.com/#/Sorcery?id=cloak-of-night-1-4
