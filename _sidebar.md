@@ -1,3 +1,4 @@
-- [Bestiary](0001_Bestiary.md)
+- [Bestiary](Beastiary.md)
+- [Powers](Sorcery.md)
 ---
 - [Changelog](Changelog.md)

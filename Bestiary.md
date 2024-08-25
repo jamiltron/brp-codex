@@ -1,4 +1,4 @@
-# **Bestiary**
+# Bestiary
 
 ## Goblinoid
 
