@@ -26,7 +26,7 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 
 **Skills:** Climb 55%, Dodge 40%, Hide 35%, Knowledge (Orc-lore) 35%, Language (Human) 25%, Language (Orcish) 60%, Listen 50%, Ride (wolf) 50%, Sense 35%, Spot 45%, Stealth 40%, Track 30%
 
-**Powers:** Sorcery is the most fearsome power in orc society, with orc sorcerers often serving as priests or leaders. A sorcery-using orc has a POW of 16+ and may know the following spells: [Cloak of Night (2)][cloak-of-night], Pox (1), Rat’s Vision (1), Sorcerer’s Razor (1), Sorcerer’s Speed (2), Ward (3).
+**Powers:** Sorcery is the most fearsome power in orc society, with orc sorcerers often serving as priests or leaders. A sorcery-using orc has a POW of 16+ and may know the following spells: [Cloak of Night (2)][cloak-of-night], [Pox (1)][pox], [Vermin’s Vision (1)][vermins-vision], [Hell's Razor (1)][hells-razor], [Lightning Speed (2)][lightening-speed], [Ward (3)][ward].
 
 ## Undead
 
@@ -59,3 +59,8 @@ Dried bones are brittle, and snap and splinter easily from a heavy blow. Regardl
 _e.g. If a mace blow strikes a skeleton for 5 points of damage, there is a 20% chance the skeleton is immediately shattered._
 
 [cloak-of-night]: https://brp-codex.com/#/Sorcery?id=cloak-of-night-1-4
+[pox]: https://brp-codex.com/#/Sorcery?id=pox-1
+[hells-razor]: https://brp-codex.com/#/Sorcery?id=hells-razor-1-4
+[lightning-speed]: https://brp-codex.com/#/Sorcery?id=lightning-speed-1-3
+[vermins-vision]: https://brp-codex.com/#/Sorcery?id=vermins-vision-1
+[ward]: https://brp-codex.com/#/Sorcery?id=ward-3
