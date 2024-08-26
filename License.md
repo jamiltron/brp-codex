@@ -1,8 +1,4 @@
-# Introduction
-
-A compendium of material for the [Basic Roleplaying Ultimate Game Engine][brp-hardback]. This is intended to be a collection of rules, content, and options from a variety of sources. We are currently in the early days of development, porting the entries from the BRP:UGE SRD and deciding on the most usable format.
-
-Please be patient with us, and if you wish, feel free to contribute at [https://github.com/jamiltron/brp-codex](https://github.com/jamiltron/brp-codex), thank you!
+# License
 
 ## ORC Content Document
 

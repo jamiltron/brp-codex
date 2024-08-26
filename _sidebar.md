@@ -1,4 +1,6 @@
+- [Introduction](Introduction.md)
 - [Bestiary](Bestiary.md)
 - [Powers](Sorcery.md)
+- [License](License.md)
 ---
 - [Changelog](Changelog.md)
