@@ -26,7 +26,7 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 
 **Skills:** Climb 55%, Dodge 40%, Hide 35%, Knowledge (Orc-lore) 35%, Language (Human) 25%, Language (Orcish) 60%, Listen 50%, Ride (wolf) 50%, Sense 35%, Spot 45%, Stealth 40%, Track 30%
 
-**Powers:** Sorcery is the most fearsome power in orc society, with orc sorcerers often serving as priests or leaders. A sorcery-using orc has a POW of 16+ and may know the following spells: [Cloak of Night (2)][cloak-of-night], [Pox (1)][pox], [Vermin’s Vision (1)][vermins-vision], [Hell's Razor (1)][hells-razor], [Lightning Speed (2)][lightening-speed], [Ward (3)][ward].
+**Powers:** Sorcery is the most fearsome power in orc society, with orc sorcerers often serving as priests or leaders. A sorcery-using orc has a POW of 16+ and may know the following spells: [Cloak of Night (2)][cloak-of-night], [Pox (1)][pox], [Vermin’s Vision (1)][vermins-vision], [Hell's Razor (1)][hells-razor], [Lightning Speed (2)][lightning-speed], [Ward (3)][ward].
 
 ## Undead
 
