@@ -4,6 +4,8 @@
 
 ### Cloak of Night (1-4)
 
+_Source: BRP:UGE v1.0.3, pg. 83_
+
 **Range:** Touch, Sight, etc.
 
 Each level increases the target’s Hide skill by +20%, cumulative, for the duration.
@@ -11,6 +13,8 @@ Each level increases the target’s Hide skill by +20%, cumulative, for the dura
 ## Characteristic Spells
 
 ### Lightning Speed (1-3)
+
+_Source: BRP:UGE v1.0.3, pg. 85_
 
 Range: Touch
 
@@ -22,6 +26,8 @@ When casting Lightning Speed 3 for the maximum increase of +3 points, roll D100.
 
 ### Hell’s Razor (1–4)
 
+_Source: BRP:UGE v1.0.3, pg. 84_
+
 **Range:** Touch
 
 This spell can be cast on a single slashing weapon with a cutting edge or edges, such as swords, axes, etc. The effects only apply to blows from edged weapons; if cast on a blunt or impaling weapon, it has no effect unless used in a slashing fashion. Each level increases the damage roll by +1, up to the maximum damage possible using that weapon. This does not change the wielder’s damage modifier (rolled separately).
@@ -29,6 +35,8 @@ This spell can be cast on a single slashing weapon with a cutting edge or edges,
 ## Manipulative Spells
 
 ### Pox (1)
+
+_Source: BRP:UGE v1.0.3, pg. 86_
 
 **Range:** Sight
 
@@ -38,6 +46,8 @@ This spell attacks the target’s power points, weakening them magically by over
 
 ### Ward (3)
 
+_Source: BRP:UGE v1.0.3, pg. 89_
+
 Range: Touch, Sight, etc.
 
 As this spell is cast, the sorcerer must walk and define a line of 15 meters or less in length, or a circle of 15 meters or less in diameter. Afterwards, the sorcerer will become automatically aware the first time any enemy crosses the line or enters the circle. Once the spell is cast, it is ready to go but does not actually activate until the line is crossed. No further effort is required to maintain the spell, and for a little-traveled path or area, it might take years before anyone sets it off and alerts the caster. Spells like Witch Sight or other means of detecting sorcery or magic can identify a Ward. Undo Sorcery 3 eliminates a Ward.
@@ -45,6 +55,8 @@ As this spell is cast, the sorcerer must walk and define a line of 15 meters or 
 ## Utility Spells
 
 ### Vermin's Vision (1)
+
+_Source: BRP:UGE v1.0.3, pg. 88_
 
 **Range:** Touch, Sight, etc.
 

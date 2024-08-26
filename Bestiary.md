@@ -4,6 +4,8 @@
 
 ### Orc
 
+_Source: BRP:UGE v1.0.3, pg. 229-230_
+
 Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any other people they encounter. They usually have grayish skin, fangs, and pointed ears, and are sometimes referred to as goblins. Orcs prefer darkness but can function well enough in daylight. They have a rough civilization based almost entirely on brutality and enslavement of their own as well as any unlucky captives. They even practice cannibalism on weak or unlucky members of their own species. Orcs often serve the forces of darkness, or prey upon others for their own amusement and enrichment. Some orcs ride giant wolves, bred as mounts. Many types of orcs could exist, based on environmental, cultural, regional, or other variances. Common types are the formidable ‘greater’ orcs (STR 5D6, CON 3D6+3, and SIZ 3D6+6) and pestilential ‘lesser’ orcs (STR 3D6, SIZ 2D6).
 
 | **STR** | **CON** | **SIZ** | **INT** | **POW** | **DEX** | **CHA** |
@@ -32,6 +34,8 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 
 ### Skeleton
 
+_Source: BRP:UGE v1.0.3, pg. 230_
+
 Animated skeletons are either created or summoned by magic or the result of an ancient curse. Most are human remains, but skeletons of other species exist. Animated skeletons are almost always encountered guarding some treasure, ancient tomb, or some other place of ill omen. Skeletons move at the same speed they did in life but cannot swim. They have no fatigue points and never tire.
 
 | **STR** | **SIZ** | **INT** | **POW** | **DEX** |
@@ -43,6 +47,10 @@ Animated skeletons are either created or summoned by magic or the result of an a
 |---------------------------|----------------------------------------------------------------|
 | **Move:** 10              | **Hit Points** 13 (see below)                                  |
 | **Damage Modifier:** None | **Armor** None (may wear armor, also see below for immunities) |
+
+| SAN Loss on Success | SAN Loss on Fail |
+|---------------------|------------------|
+| 0                   | -1D6             |
 
 **Attacks:**
 
