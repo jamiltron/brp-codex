@@ -15,8 +15,8 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 
 |                           |                                         |
 |---------------------------|-----------------------------------------|
-| **Move:** 8               | **Hit Points** 10                       |
-| **Damage Modifier:** None | **Armor** 6-point ring and light helmet |
+| **Move:** 8               | **Hit Points:** 10                      |
+| **Damage Modifier:** None | **Armor:** 6-pt ring and light helmet   |
 
 **Attacks:**
 
@@ -29,6 +29,31 @@ Orcs are bestial humanoids who despise humanity, elves, dwarves, and nearly any 
 **Skills:** Climb 55%, Dodge 40%, Hide 35%, Knowledge (Orc-lore) 35%, Language (Human) 25%, Language (Orcish) 60%, Listen 50%, Ride (wolf) 50%, Sense 35%, Spot 45%, Stealth 40%, Track 30%
 
 **Powers:** Sorcery is the most fearsome power in orc society, with orc sorcerers often serving as priests or leaders. A sorcery-using orc has a POW of 16+ and may know the following spells: [Cloak of Night (2)][cloak-of-night], [Pox (1)][pox], [Vermin’s Vision (1)][vermins-vision], [Hell's Razor (1)][hells-razor], [Lightning Speed (2)][lightning-speed], [Ward (3)][ward].
+
+## Natural Creatures
+
+### Alligator or Crocodile
+
+_Source: BRP:UGE v.1.0.3, pg. 223_
+
+| **STR**  | **SIZ** | **INT** | **POW** | **DEX** |
+| -------- | ------- | ------- | ------- | ------- |
+| 4D6+12   | 3D6+6   | 4D6+12  | 3D6     | 2D6     |
+| 25       | 18-19   | 25      | 10-11   | 7       |
+
+|                           |                            |
+| ------------------------- | -------------------------- |
+| **Move:** 7 Walk, 6 Swim  | **Hit Points:** 22         |
+| **Damage Modifier:** +2D6 | **Armor:** 5-pt. hide      |
+
+**Attacks:**
+
+- Bite 50%, 1D10+dm
+
+**Skills:** Dodge 30%, Hide 50%, Search 35%, Sense 30%, Stealth 75%, Track 15%
+
+
+
 
 ## Undead
 
@@ -45,8 +70,8 @@ Animated skeletons are either created or summoned by magic or the result of an a
 
 |                           |                                                                |
 |---------------------------|----------------------------------------------------------------|
-| **Move:** 10              | **Hit Points** 13 (see below)                                  |
-| **Damage Modifier:** None | **Armor** None (may wear armor, also see below for immunities) |
+| **Move:** 10              | **Hit Points:** 13 (see below)                                  |
+| **Damage Modifier:** None | **Armor:** None (may wear armor, also see below for immunities) |
 
 | SAN Loss on Success | SAN Loss on Fail |
 |---------------------|------------------|
