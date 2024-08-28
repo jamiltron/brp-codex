@@ -1,6 +1,6 @@
 # Magic
 
-## Blast
+### Blast
 
 **Range:** 100 meters
 
@@ -12,7 +12,7 @@ Use this spell to attack a single target with a beam of magic energy. The target
 
 Countermagic may stop Blast, but Protection does not work. Resistance does not work against Blast.
 
-Change
+### Change
 
 **Range:** 30 meters
 
@@ -28,7 +28,7 @@ If the target has already taken hit point damage before the spell is cast, the n
 
 In addition to the number of SIZ points this spell can affect, additional levels can be used to affect more than one object (for example, casting one spell to affect two or more beings, provided enough SIZ is covered), or extending the duration of the spell by 15 minutes. When the spell is cast, the magician should specify how additional levels of the spell are being used.
 
-Conjure (type) Elemental
+### Conjure (type) Elemental
 
 **Range:** 12 meters
 
@@ -47,7 +47,7 @@ The following elementals are described in Chapter 11: Creatures.
 
 Elementals may appear in entirely different forms, and other types may exist.
 
-Control
+### Control
 
 **Range:** 100 meters
 
@@ -63,7 +63,7 @@ If the target is commanded to perform an action it would normally find objection
 
 When the Control spell is done, the target may make an Idea roll. If successful, they remember every detail of actions taken under the spell’s influence. They do not necessarily remember who the spellcaster was, unless it is obvious.
 
-Countermagic
+### Countermagic
 
 **Range:** 100 meters
 
@@ -75,7 +75,7 @@ Use this spell to create a magical shield around the magician or any desired sub
 
 If the character or object to receive the Countermagic already has a Protection spell, the Countermagic is not effective unless its level overcomes the level(s) of Protection on the resistance table. If successful, both spells take effect. Countermagic is effective vs. Blast and Lightning, but not against Fire or Frost.
 
-Dark
+### Dark
 
 **Range:** 100 meters
 
@@ -85,7 +85,7 @@ Dark
 
 Use this spell to dampen all light within a circle 3 meters in radius plus 3 meters per level. This darkness is absolute, and light cannot shine through it. The spell must be cast on an object; it does not hang in mid-air. The affected area is in total darkness to anyone seeing in the normal range of visible light, even if a torch or other light source is active within the spell’s radius. Dark can be cast on an object that Light has previously been cast upon. Each level of Dark cancels a single level of Light.
 
-Diminish
+### Diminish
 
 **Range:** Touch
 
@@ -95,7 +95,7 @@ Diminish
 
 Use this spell to overcome the target’s POW with a resistance roll and reduce their STR, CON, SIZ or DEX by –1 per level of the spell. Pick which of the target’s characteristics will be affected before the spell is cast. Subsequent casts can reduce the same characteristic or affect a different characteristic. This spell affects any attributes derived from these characteristics, such as hit points, power points, characteristic rolls, characteristic modifiers, etc. Characteristics cannot be reduced below 1, and points of Diminish more than that have no further effect.
 
-Dispel
+### Dispel
 
 **Range:** 100 meters
 
@@ -110,7 +110,7 @@ Dispel can also be used against someone as they cast another spell, to prevent t
 
 Dispel can also be used to banish or destroy lesser summoned creatures (elementals or minor demons) or a possessor (for example, a being that has seized control over a host’s body using the Control spell). In these cases, the Dispel’s levels are compared against the creature’s own POW characteristic. If the creature’s POW is overcome on the resistance table, it departs as quickly as possible. If it is a possessing being, the creature flees the host body immediately. If multiple appropriate beings are within the range of the spell, you must clarify which one is being targeted, or all of them are targeted, with the highest POW being the one attempted first. If the Dispel succeeds on the first, it then moves to the second, etc. If it fails, it does not have further effect on any remaining beings.
 
-Dull
+### Dull
 
 **Range:** 100 meters
 
@@ -120,7 +120,7 @@ Dull
 
 Use this spell to reduce the attack chance of a weapon by –5% and its damage by –1 point. More than one level can either reduce the attack chance more (to –10%, –15%, etc.) or reduce damage by –2, –3, etc., or it can be distributed equally among several weapons up the level of the spell and within range. If a weapon leaves the range, it is no longer affected. Damage cannot be reduced below 1 point, and a roll of 01% always hits, regardless of modifiers.
 
-Enhance
+### Enhance
 
 **Range:** Touch
 
@@ -130,7 +130,7 @@ Enhance
 
 Use this spell to overcome the target’s POW in a resistance roll and add +1 to one of the target’s STR, CON, SIZ or DEX per level of the spell. Pick which of the target’s characteristics will be affected before the spell is cast. Subsequent castings can increase the same characteristic or affect a different characteristic. This will temporarily affect other attributes derived from these characteristics, such as hit points, power points, characteristic rolls, characteristic modifiers, etc. Hit points and power points above the target’s normal range are lost.
 
-Fire
+### Fire
 
 **Range:** 100 meters
 
@@ -144,7 +144,7 @@ A target can attempt to dodge out of the affected area. The spell’s damage is 
 
 Levels of this spell can be used to cancel levels of Frost on the resistance table, but Fire has no effect against other forms of supernatural cold.
 
-Frost
+### Frost
 
 **Range:** 100 meters
 
@@ -158,7 +158,7 @@ A target can attempt to dodge out of the affected area. The spell’s damage is 
 
 Levels of this spell can be used to cancel levels of Fire on the resistance table, but Frost has no effect against other forms of supernatural flame.
 
-Heal
+### Heal
 
 **Range:** Touch
 
@@ -168,7 +168,7 @@ Heal
 
 This spell heals 1D6 hit points of damage per level. Restoring a character to a positive hit point total with Heal can restore them to life if successfully cast by the end of the round following that in which the victim suffered the mortal wound. Any limbs severed or lost through a major wound or use of the hit location system are still severed or lost, though the hit points are still restored. Heal has no effect on disease, poison, or radiation, though it can restore lost hit points caused by them.
 
-Illusion
+### Illusion
 
 **Range:** 30 meters
 
@@ -181,7 +181,7 @@ Use this spell to create up to 3 SIZ points per level of an object’s appearanc
     If the illusion should have sound, a successful Idea roll reveals it. If the illusion does not need sound, a Difficult Spot roll is required to see through it. If some form of sound accompanies the illusion, a Difficult Listen or Sense roll is required to notice it is not real.
     If the viewer suspects it is an illusion and attempts to disbelieve it, roll the magician’s POW vs. the viewer’s INT on the resistance table.
 
-Invisibility
+### Invisibility
 
 **Range:** Touch
 
@@ -195,7 +195,7 @@ The magician must concentrate on the spell and must do no more than walk or spea
 
 An invisible character can move, attack, flee, or stand still while the spell is active. Invisibility can be dispelled by the magician at any time, though starting it again requires another casting.
 
-Lift
+### Lift
 
 **Range:** 100 meters
 
@@ -209,7 +209,7 @@ The spell may also be used to slow a falling object that is otherwise too large 
 
 The spell may also move an object such as cart or sledge along the ground. In this case, each level of the spell can affect 6 SIZ of the targeted object or character. This spell can also be used to throw an object already lifted, with a Difficult roll of the caster’s Throw skill.
 
-Light
+### Light
 
 **Range:** 100 meters
 
@@ -219,7 +219,7 @@ Light
 
 Use this spell to illuminate a circle 3 meters per level in radius. This light is around the brightness of a torch or small light bulb. The spell must be cast on an object; it does not hang in mid-air. Light can be cast on an object that has had Dark previdously cast upon it, canceling both spells on a level-for-level basis.
 
-Lightning
+### Lightning
 
 **Range:** 60 meters
 
@@ -231,7 +231,7 @@ Use this spell to throw a lightning bolt doing 1D6 damage per level directly to 
 
 A target can dodge or parry Lightning with a shield. Dodging lightning is Difficult if wearing metal armor, and if Lightning is parried successfully with a non-metallic shield, the shield takes the damage, with any remainder carrying over to the target. Parrying Lightning with a metallic shield is useless, as the Lightning conducts through the shield and to the target.
 
-Perception
+### Perception
 
 **Range:** 60 meters
 
@@ -243,7 +243,7 @@ Use this spell to point out the direction of the nearest example of one type of 
 
 For example, Perception 2 can find the closest two traps, or it may find the closest trap and the closest secret door.
 
-Protection
+### Protection
 
 **Range:** 100 meters
 
@@ -253,7 +253,7 @@ Protection
 
 Use this spell to add +1 point per level to the target’s armor points (even if no armor is worn). Any Countermagic cast upon on the target must overcome the Protection spell on the resistance table. If successful, both spells remain on the target and in effect. At your gamemaster’s discretion, this spell can also provide protection against damage types not normally blocked by armor.
 
-Resistance
+### Resistance
 
 **Range:** Touch
 
@@ -272,7 +272,7 @@ Protection and Resistance apparently serve the same purpose: keeping your charac
 
 Some attacks, such as a flaming sword or a falling flaming roof beam, may be affected by both spells at once, with Protection reducing the points of damage from the blade itself, and Resistance reducing the extra damage from the flames.
 
-Seal
+### Seal
 
 **Range:** Touch
 
@@ -284,7 +284,7 @@ Use this spell to bond the edges of any two inanimate objects which are at rest 
 
 Each level adds either 15 minutes to the duration of the spell or adds +20 additional hit points to the hit points of the sealed objects. The caster may split levels between these two benefits, deciding how before casting the spell.
 
-Sharpen
+### Sharpen
 
 **Range:** 100 meters
 
@@ -308,7 +308,7 @@ Speak to Mind
 
 Use this spell to speak to one other mind per level, whether intelligent or not. Only surface conversation or feelings are transmitted, and the target may need to make an Idea roll to understand if not traditionally intelligent. Language is not a barrier to this spell, however. Multiple targets of the spell cannot communicate to each other using this spell, though casting Speak to Mind 1 on a target, lets them communicate with one other mind.
 
-Teleport
+### Teleport
 
 **Range:** 1,000 meters
 
@@ -326,7 +326,7 @@ A fumble may send the item or person being teleported into a solid object, perha
 
 Attempting to Teleport a foe or item into a solid structure allows the target the same chances as described above (a Luck roll). It costs 3 power points per level to consciously teleport something or someone into a solid structure or object (plus a 0/1D3 Sanity roll). If the subject of the teleportation into a solid substance is another item, your gamemaster decides what happens. A living being becoming fused with a solid item is usually traumatic, and the target must find some means of extricating themselves from the item or structure (such as another Teleport spell). Failure to do so can cause any Major Wound (as above) to have permanent effect.
 
-Unseal
+### Unseal
 
 **Range:** Touch
 
@@ -336,7 +336,7 @@ Unseal
 
 Use this spell to open unlocked doors or boxes and cause weapons to fly out of their sheaths and drop to the ground. It will not undo a locked container, or some object that has been fastened shut. It can be cast to cancel Seal if the level of Unseal overcomes the level of Seal on the resistance table.
 
-Vision
+### Vision
 
 **Range:** 100/10 meters
 
@@ -352,7 +352,7 @@ This spell may also be used to touch an item and receive a vision of its previou
 
 While using the Vision spell, the caster may not use any other spell or the Vision spell’s effects end.
 
-Wall
+### Wall
 
 **Range:** 12 meters
 
@@ -370,7 +370,7 @@ Regardless of the substance it is made of, a Wall has 30 hit points. Each additi
 
 If desired, the Wall’s 30 hit point value can be based on the guidelines in the Armor Values of Substances and Object SIZ Examples tables.
 
-Ward
+### Ward
 
 **Range:** Touch
 
@@ -382,7 +382,7 @@ Use Ward to form a protective square of up to nine square meters around the pers
 
 Only the caster may move the ward objects without disturbing the spell. However, Dispel may be cast upon them. Physically interfering with the objects sets off the Countermagic and Blast capabilities, as if the Ward was triggered. If some other means of manipulating the objects is attempted, each ward has 30 hit points and acts as if it had Seal cast upon it.
 
-Wounding
+### Wounding
 
 **Range:** Touch
 
