@@ -1,5 +1,6 @@
 - [Introduction](Introduction.md)
 - [Bestiary](Bestiary.md)
+- [Magic](Magic.md)
 - [Powers](Sorcery.md)
 - [License](License.md)
 ---

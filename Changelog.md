@@ -1,7 +1,11 @@
 # Changelog
 
-## V0.1.0
+## v0.1.1
+*Aug 27th, 2024*
+
+- Added default Magic spells
+
+## v0.1.0
 *Aug 24th, 2024*
 
-### Updates
 - Initial Commit
